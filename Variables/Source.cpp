@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-	int number = 5;
+	int number = 10;
 	{
 		int x = 10;
 		number = x;
